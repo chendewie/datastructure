@@ -1,0 +1,9 @@
+﻿  Test.c
+C:\My_CODE\DSlist\DSlist\seqlist.h(116,16): warning C4018: “<”: 有符号/无符号不匹配
+C:\My_CODE\DSlist\DSlist\seqlist.h(126,18): warning C4018: “>”: 有符号/无符号不匹配
+C:\My_CODE\DSlist\DSlist\seqlist.h(151,21): warning C4018: “>=”: 有符号/无符号不匹配
+C:\My_CODE\DSlist\DSlist\seqlist.h(156,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\My_CODE\DSlist\DSlist\seqlist.h(205,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\My_CODE\DSlist\DSlist\seqlist.h(207,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\My_CODE\DSlist\DSlist\seqlist.h(222,20): warning C4018: “<”: 有符号/无符号不匹配
+  DSlist.vcxproj -> C:\My_CODE\DSlist\Debug\DSlist.exe
