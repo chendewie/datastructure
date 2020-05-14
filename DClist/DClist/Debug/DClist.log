@@ -1,0 +1,16 @@
+﻿  dclist.c
+C:\My_CODE\DClist\DClist\dclist.c(32,17): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“char *”
+C:\My_CODE\DClist\DClist\dclist.c(32,17): message : 请考虑在格式字符串中使用“%hhd”
+C:\My_CODE\DClist\DClist\dclist.c(39,17): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“char *”
+C:\My_CODE\DClist\DClist\dclist.c(39,17): message : 请考虑在格式字符串中使用“%hhd”
+C:\My_CODE\DClist\DClist\dclist.c(57,10): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“char *”
+C:\My_CODE\DClist\DClist\dclist.c(57,10): message : 请考虑在格式字符串中使用“%hhd”
+C:\My_CODE\DClist\DClist\dclist.c(63,10): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“char *”
+C:\My_CODE\DClist\DClist\dclist.c(63,10): message : 请考虑在格式字符串中使用“%hhd”
+C:\My_CODE\DClist\DClist\dclist.c(73,10): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“char *”
+C:\My_CODE\DClist\DClist\dclist.c(73,10): message : 请考虑在格式字符串中使用“%hhd”
+C:\My_CODE\DClist\DClist\dclist.c(78,10): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“char *”
+C:\My_CODE\DClist\DClist\dclist.c(78,10): message : 请考虑在格式字符串中使用“%hhd”
+C:\My_CODE\DClist\DClist\dclist.c(104,10): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“char *”
+C:\My_CODE\DClist\DClist\dclist.c(104,10): message : 请考虑在格式字符串中使用“%hhd”
+  DClist.vcxproj -> C:\My_CODE\DClist\Debug\DClist.exe
