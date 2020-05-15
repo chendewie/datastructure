@@ -1,0 +1,6 @@
+﻿  queue.c
+C:\Users\chendewei\source\repos\Queue\Queue\queue.h(64,9): warning C4033: “SeqQueueFront”必须返回值
+C:\Users\chendewei\source\repos\Queue\Queue\queue.h(140,9): warning C4033: “CircleQueueFront”必须返回值
+C:\Users\chendewei\source\repos\Queue\Queue\queue.h(67): warning C4715: “SeqQueueFront”: 不是所有的控件路径都返回值
+C:\Users\chendewei\source\repos\Queue\Queue\queue.h(143): warning C4715: “CircleQueueFront”: 不是所有的控件路径都返回值
+  Queue.vcxproj -> C:\Users\chendewei\source\repos\Queue\Debug\Queue.exe
