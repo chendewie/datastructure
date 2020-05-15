@@ -1,0 +1,7 @@
+﻿  stack.c
+C:\My_CODE\Stack\Stack\stack.h(32,18): warning C4018: “>=”: 有符号/无符号不匹配
+C:\My_CODE\Stack\Stack\stack.h(65,9): warning C4033: “SeqStackTop”必须返回值
+C:\My_CODE\Stack\Stack\stack.h(129,9): warning C4033: “LinkStackTop”必须返回值
+C:\My_CODE\Stack\Stack\stack.h(68): warning C4715: “SeqStackTop”: 不是所有的控件路径都返回值
+C:\My_CODE\Stack\Stack\stack.h(132): warning C4715: “LinkStackTop”: 不是所有的控件路径都返回值
+  Stack.vcxproj -> C:\My_CODE\Stack\Debug\Stack.exe
