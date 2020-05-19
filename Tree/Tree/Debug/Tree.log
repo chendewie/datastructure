@@ -1,0 +1,7 @@
+﻿  tree.c
+C:\Users\chendewei\source\repos\Tree\Tree\tree.h(68,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“BinTreeNode *”
+C:\Users\chendewei\source\repos\Tree\Tree\tree.h(131,9): warning C4033: “LinkStackTop”必须返回值
+C:\Users\chendewei\source\repos\Tree\Tree\tree.h(141,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“BinTreeNode *”
+C:\Users\chendewei\source\repos\Tree\Tree\tree.h(224,14): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+C:\Users\chendewei\source\repos\Tree\Tree\tree.h(134): warning C4715: “LinkStackTop”: 不是所有的控件路径都返回值
+  Tree.vcxproj -> C:\Users\chendewei\source\repos\Tree\Debug\Tree.exe
