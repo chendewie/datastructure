@@ -1,0 +1,3 @@
+﻿  heap.c
+C:\My_CODE\Heap\Heap\heap.h(104,1): warning C4029: 声明的形参表不同于定义
+  Heap.vcxproj -> C:\My_CODE\Heap\Debug\Heap.exe

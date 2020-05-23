@@ -481,3 +481,51 @@ void PreOrder_1_NoR(BinTreeNode* t)
 		}
 	}
 }
+/*
+int BinaryTreeComplete(BTNode* root)
+{
+	Queue qu;
+	BTNode * cur;
+	int tag = 0;
+
+	QueueInit(&qu);
+
+	QueuePush(&qu, root);
+
+	while (!QueueIsEmpty(&qu))
+	{
+		cur = QueueTop(&qu);
+
+		putchar(cur->_data);
+
+		if (cur->_right && !cur->_left)
+		{
+			return 0;
+		}
+
+		if (tag && (cur->_right || cur->_left))
+		{
+			return 0;
+		}
+
+		if (cur->_left)
+		{
+			QueuePush(&qu, cur->_left);
+		}
+
+		if (cur->_right)
+		{
+			QueuePush(&qu, cur->_right);
+		}
+		else
+		{
+			tag = 1;
+		}
+
+		QueuePop(&qu);
+	}
+
+	QueueDestory(&qu);
+	return 1;
+}
+*/
